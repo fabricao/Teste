@@ -1,3 +1,2 @@
 git init //INICIALIZA O GIT
 git config --global user.name <fabricao>
-qualquer coisa
